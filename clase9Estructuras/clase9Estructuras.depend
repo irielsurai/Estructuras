@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568904892 source:d:\molinai\laboratorio1\clase9estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
